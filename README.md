@@ -15,7 +15,7 @@ Brief instructions:
   App can only be used with Postman or something similar. App does not have UI ( I opted to use a preview version of blazor framework which, as it turns out, has issues. According to github thread that issue is solved, but according to my machine it is still an issue, so I removed the UI that I was planning to build).
 
 You will need to paste the address (that you copied from browser) in postman. 
-That address should be http://localhost:52634/ Zou need to add remaining parts as specified in the Task you have sent me. 
+That address should be http://localhost:52634/ You need to add remaining parts as specified in the Task you have sent me. 
 Addresses should be 
 http://localhost:52634/api/posts/
 http://localhost:52634/api/tags 
